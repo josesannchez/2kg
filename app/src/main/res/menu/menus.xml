@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+        <item
+
+
+            android:title="ayudad">
+                <menu>
+                        <item
+                            android:id="@+id/contacto"
+                            android:title="contacto">
+                        </item>
+
+                        <item
+                            android:id="@+id/consejo"
+                            android:title="consejo">
+
+                        </item>
+                        <item
+                            android:id="@+id/reservaciones"
+                            android:title="reservaciones">
+
+                        </item>
+                </menu>
+        </item>
+
+</menu>
